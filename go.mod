@@ -1,4 +1,4 @@
-module github.com/ybbus/jsonrpc/v2
+module github.com/aurora-is-near/go-jsonrpc
 
 go 1.12
 
