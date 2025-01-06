@@ -1,4 +1,4 @@
-module github.com/aurora-is-near/go-jsonrpc/v3
+module github.com/qazxcvio/go-jsonrpc/v3
 
 go 1.12
 
